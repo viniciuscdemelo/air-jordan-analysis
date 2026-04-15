@@ -20,7 +20,7 @@ O dataset utilizado para este projeto encontra-se disponível via Kaggle pelo li
 
 #### Origem
 Este conjunto de dados foi criado especificamente para o Kaggle para fornecer um ambiente limpo e estruturado para modelagem preditiva e análise de mercado.
-
+giy 
 #### Material de Origem
 Embora os registros específicos de transações sejam sintéticos, os parâmetros base (por exemplo, MSRPs originais, coloras populares, canais de varejo e os prêmios gerais de preço aplicados a tênis em condição "deadstock") são modelados com base em tendências históricas e reais observadas em grandes plataformas secundárias como StockX e GOAT entre 2023 e 2026.
 
